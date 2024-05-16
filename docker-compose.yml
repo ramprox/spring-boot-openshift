@@ -1,5 +1,0 @@
-services:
-  openshift-test:
-    image: openshift-test:1.0
-    ports:
-      - 8080:8080
